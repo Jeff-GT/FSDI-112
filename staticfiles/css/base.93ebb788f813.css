@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(47, 47, 47);
+  color: white;
+}
+h1{
+  color: rgb(243, 234, 234);
+  
+}
+
+.content_about{
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
